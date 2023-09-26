@@ -1,4 +1,5 @@
 *.o
 junk/
 *.log
+!data.log
 
